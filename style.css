@@ -1,0 +1,42 @@
+h1 {
+    color: brown;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    width: 500px;
+    margin: 10px auto;
+}
+
+ul {
+    background-color: black;
+    padding: 10px;
+    font-family: 'Times New Roman', Courier, monospace;
+    font-size: xx-large;
+    width: 500px;
+    margin: auto;
+}
+
+.list {
+    background-color: lightblue;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+#touch {
+    color: blueviolet;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+#feel {
+    color: blue;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+#create {
+    color: antiquewhite;
+    padding: 10px;
+    margin: 10px auto;
+}
